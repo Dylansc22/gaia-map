@@ -15,7 +15,7 @@ const config = {
   site_description: 'A demo of my expertise in recreating the Gaia GPS basemap visual style, in a 45 minute period of time, using Mapbox Studio.',
 
   // Your website's URL, used for sitemap
-  site_url: '',
+  site_url: 'https://blissful-jang-1256be.netlify.app/',
 
   // Google Analytics tracking ID (leave blank to disable)
   googleAnalyticsUA: '',
