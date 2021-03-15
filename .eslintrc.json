@@ -1,0 +1,21 @@
+{
+  "extends": [
+    // "airbnb-base", //not sure if remove this one -- frontendmasters doesnt use it
+    "eslint:recommended",
+    "plugin:import/errors",
+    "prettier"
+  ],
+  "rules": {
+    "no-console": "warn"
+  },
+  "plugins": ["import"],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  }
+}
